@@ -4,7 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+/// Image Pick with crop and save with drop shadow as image colors and also able to show black shadow.
+/// Using GetX...✨
+/// it's just decoration of image which are useful at social media...story or post.
+/// Just like below example:
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
